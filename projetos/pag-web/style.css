@@ -1,0 +1,62 @@
+bosy {
+    margin: 0;
+}
+
+div {
+    text-align: center;
+    background-color: #f5f5f5;
+    padding: 50px;
+    border-top: 1px solid #d5d5d5;
+
+}
+
+#foto01 {
+    width: 190px;
+}
+#foto02 {
+    width: 190px;
+}
+
+.alefoto {
+    display: block;
+    margin: 0px auto;
+}
+
+h1 {
+    font-family: 'Tahoma', sans-serif;
+    margin-top: 0;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Tahoma', sans-serif;
+    font-size: 24px;
+    text-align: center;    
+}
+
+h3 {
+    font-family: 'Tahoma', sans-serif;
+}
+
+p {
+    font-family: 'Tahoma', sans-serif;
+    line-height: 28px;
+    width: 930px;
+    text-align: center;
+    margin: 15px auto 30px auto;
+}
+
+a {
+    font-family: 'Tahoma', sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    background-color: rgb(84, 203, 84);
+    color: white;
+    text-decoration: none;
+    border-radius: 14px;
+    padding: 10px 20px;
+}
+
+span {
+    font-weight: bold;
+}
